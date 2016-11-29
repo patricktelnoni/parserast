@@ -1,0 +1,135 @@
+
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url": "http://www.kompas.com",
+  "logo": "http://assets.kompas.com/data/2016/wp/images/logokompascom.png",
+  "sameAs" : [
+    "http://www.facebook.com/kompascom",
+    "http://www.twitter.com/kompascom",
+    "http://instagram.com/kompascom",
+    "http://pinterest.com/kompascom"
+  ]
+}
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PT7PC4');
+    var base_url = 'http://www.kompas.com/';
+    var crn_url = 'aHR0cDovL3d3dy5rb21wYXMuY29tLw==';
+
+var crtg_nid = '4168';
+var crtg_cookiename = 'crtg_rta';
+var crtg_varname = 'crtg_content';
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+else if(document.getElementsByTagName("body").length&gt;0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+})();
+
+	var gptadslots=[];
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function(){ var gads = document.createElement('script');
+		gads.async = true; gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+
+googletag.cmd.push(function() {
+			
+
+		//Adslot 2 declaration
+		gptadslots[2]= googletag.defineSlot('/31800665/KOMPAS.COM/home', [[300,600]],'div-gpt-ad-712092287234656005-2').setTargeting('Pos',['Giant']).addService(googletag.pubads());
+
+		//Adslot 3 declaration
+		//gptadslots[3]= googletag.defineSlot('/31800665/KOMPAS.COM/home', [[300,250]],'div-gpt-ad-712092287234656005-3').setTargeting('Pos',['Right_2']).addService(googletag.pubads());
+
+		//Adslot 4 declaration
+		gptadslots[4]= googletag.defineSlot('/31800665/KOMPAS.COM/home', [[300,250]],'div-gpt-ad-712092287234656005-4').setTargeting('Pos',['Right_3']).addService(googletag.pubads());
+
+		//Adslot 5 declaration
+		gptadslots[5]= googletag.defineSlot('/31800665/KOMPAS.COM/home', [[300,250]],'div-gpt-ad-712092287234656005-5').setTargeting('Pos',['Right_4']).addService(googletag.pubads());
+		
+			
+		
+		//Adslot oop declaration
+		gptadslots[0] = googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/home', 'div-gpt-ad-712092287234656005-oop').setTargeting('Pos',['Overlay']).addService(googletag.pubads());
+		
+		var crtg_split= (crtg_content|| '').split(';');
+		var pubads= googletag.pubads();
+		var cto_values= [];
+		for (var i=1;i
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-712092287234656005-oop');});
+    
+$('#video-hl').mouseover(function(){
+    $('.hl__big').flexslider("pause");
+});
+
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-712092287234656005-2');});
+            
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-712092287234656005-4');});
+        
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-712092287234656005-5');});
+        
+   var m3_u = (location.protocol=='https:'?'https://ads4.kompasads.com/new/www/delivery/ajs.php':'http://ads4.kompasads.com/new/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("&lt;\/scr"+"ipt&gt;");
+(function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (d.getElementById(id)) return;
+						js = d.createElement(s); js.id = id;
+						js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.5";
+						fjs.parentNode.insertBefore(js, fjs);
+						}(document, 'script', 'facebook-jssdk'));window.twttr = (function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0],
+						t = window.twttr || {};
+						if (d.getElementById(id)) return t;
+						js = d.createElement(s);
+						js.id = id;
+						js.src = "https://platform.twitter.com/widgets.js";
+						fjs.parentNode.insertBefore(js, fjs);
+
+						t._e = [];
+						t.ready = function(f) {
+						t._e.push(f);
+						};
+
+						return t;
+						}(document, "script", "twitter-wjs"));
+	//data latest
+	var inclatest 	= 0;
+	var more_latest = ["\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t&lt;\/span&gt;\n\t\t\t\t\t\t07:14\t\n\t\t\t\t\t\t&lt;\/div&gt;\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tGeger Padepokan Dimas Kanjeng Taat Pribadi&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tVideo&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t43 menit lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tSuami Istri Sering Bercinta Kilat, Normalkah? &lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tFemale&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t53 menit lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t&lt;\/span&gt;\n\t\t\t\t\t\t02:08\t\n\t\t\t\t\t\t&lt;\/div&gt;\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tPolisi Ungkap Modus Dugaan Penipuan Dimas Kanjeng&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tVideo&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t55 menit lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t&lt;\/span&gt;\n\t\t\t\t\t\t00:50\t\n\t\t\t\t\t\t&lt;\/div&gt;\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tRicuh Sengketa Lahan, Bentrokan Terjadi&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tVideo&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t58 menit lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tCassio Akumulasi Kartu Kuning, Pertahanan Semen Padang Siaga &lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tJuara.net&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t58 menit lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t&lt;\/span&gt;\n\t\t\t\t\t\t00:24\t\n\t\t\t\t\t\t&lt;\/div&gt;\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tJet Tempur Suriah-Rusia Hancurkan Rumah Sakit&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tVideo&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t58 menit lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tAnak Muda Tak Kenal Kain Indonesia, Salah Siapa?&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tFemale&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t1 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tAnak Aniaya Ibu Kandungnya yang Sudah Uzur Hingga Babak Belur&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tNews&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t1 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tDahaga Persija Berakhir, Tren Gagal Menang di 14 Laga Putus&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tJuara.net&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t1 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tWaspada, Televisi dan Radio Bisa Jadi Sumber Stres&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tFemale&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t1 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n    \n    \t\t\t        \n\t\t        \t\n\t\t\t\t\t\t00:58\t\t        \t\t&lt;\/div&gt;\n\t\t            \n\t\t        &lt;\/div&gt;\n\t\t    &lt;\/a&gt;\n    Ribuan Santri Gelar Pawai Sambut Tahun Baru Islam&lt;\/a&gt;\n    &lt;\/div&gt;\n&lt;\/li&gt;","\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tBerciri Khas Duyung, Batik Gondho Arum Banyuwangi Diburu Orang&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tNews&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t1 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tLois Merry Tangel, Putri Pariwisata Indonesia 2016&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tTravel&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t1 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tArio Anindito: Komikus Indonesia Harus Belajar Disiplin dan Profesional&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tEntertainment&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t1 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tToyota Kenalkan Yaris Buat Reli Dunia&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tOtomotif&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t1 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tRano Karno Tak Menyangka Bisa Menulis Buku&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tEntertainment&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tIni Perkembangan Jalan Perbatasan di Kalimantan, NTT, dan Papua (II)&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tProperti&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tIni Dia, Motif Batik yang Tidak Boleh Dipakai ke Pesta&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tFemale&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tChicco Jerikho Belajar Menanti Kelahiran Anak Pertama&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tEntertainment&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tIni Perkembangan Jalan Perbatasan di Kalimantan, NTT, dan Papua (l)&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tProperti&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tPerhatikan Sirkulasi Udara AC Mobil&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tOtomania.com&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n    \n    \t\t\t        \n\t\t            20 Foto&lt;\/div&gt;\n\t\t            \n\t\t        &lt;\/div&gt;\n\t\t    &lt;\/a&gt;\n    \n    \tPengampunan Pajak bagi Wajib Pajak&lt;\/a&gt;\n    &lt;\/div&gt;\n&lt;\/li&gt;","\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tSetditjen Pendidikan Islam Ungkap Kunci Sukses Alumnus Universitas Harvard &lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tNews&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t&lt;\/span&gt;\n\t\t\t\t\t\t00:48\t\n\t\t\t\t\t\t&lt;\/div&gt;\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tArgentina Raih Gelar Pertama di Piala Dunia Futsal&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tVideo&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t&lt;\/span&gt;\n\t\t\t\t\t\t01:36\t\n\t\t\t\t\t\t&lt;\/div&gt;\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tLuca Ghiotto Juara Sprint Race GP2 Malaysia&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tVideo&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t&lt;\/span&gt;\n\t\t\t\t\t\t01:27\t\n\t\t\t\t\t\t&lt;\/div&gt;\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tDaniel Ricciardo Juara F1 GP Malaysia &lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tVideo&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tSekarang Justru Civic yang Diincar karena Turbo&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tOtomotif&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tPepeng \"Naif\": Kita Belum Belajar Cara Menjual Komik&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tEntertainment&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tGelandang dari Australia Mengancam Persegres Gresik United&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tJuara.net&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tAgya-Ayla Jadi \"Tumbal\" Calya-Sigra &lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tOtomania.com&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tPutaran Keempat SIRNAS-MSC Hadir di Banjarmasin &lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tNews&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t&lt;\/div&gt;\t\t\n\t\t\t\n\t\t\t\t\t    \n\t\t    \tJanna Soekasah Bermisi Lestarikan Kebudayaan Indonesia&lt;\/a&gt;\n\t\t    &lt;\/div&gt;\n\t\t    \n\t\t\t\t\n\t\t\t\tFemale&lt;\/a&gt; - \t\t \t&lt;\/span&gt;\n\t\t \t\n\t\t \t\t2 jam lalu\t\t \t&lt;\/span&gt;\n\t\t&lt;\/li&gt;\n\n\n    \n    \t\t\t        \n\t\t        \t\n\t\t\t\t\t\t01:31\t\t        \t\t&lt;\/div&gt;\n\t\t            \n\t\t        &lt;\/div&gt;\n\t\t    &lt;\/a&gt;\n    Tak Dapat Layanan Kesehatan, Kakek Ini Lumpuh 9 Tahun&lt;\/a&gt;\n    &lt;\/div&gt;\n&lt;\/li&gt;"]
+	$(document).ready(function() {
+	    $(window).scroll(function() {
+	        if ($("#more").length &gt; 0 &amp;&amp; ($('#more').is(':visible') )) {
+	            var offset = $("#more").offset();
+	            var minPosition = 1463;
+	            //console.log("stopheight:"+$(window).scrollTop() + $(window).height());
+	            //console.log("offset:"+offset.top);
+	            if ($(window).scrollTop() + $(window).height() &gt;= offset.top - minPosition) {
+
+	            	//console.log("yes");
+	                load_more_data($("#more"));
+	                return false;
+	            }else{
+	            	//console.log("no");
+	            }
+	        }
+	    });
+	});
+
+	function load_more_data(object){
+    	$(object).hide();
+    	if(more_latest[inclatest]){
+    		console.log("data more:"+inclatest);
+			$('#container').append(more_latest[inclatest]);
+			$(object).show();
+		}else{	
+			$('#indeks').show();
+			$(object).remove();
+		}
+		
+		inclatest=inclatest+1;
+	}
+
+        remove_below(1300);
+    

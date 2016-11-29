@@ -1,0 +1,220 @@
+<script src="http://assets.kompas.com/data/2015/kompascom/v2/js/jquery.js?v=100"></script><script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "url": "http://www.kompas.com",
+  "logo": "http://assets.kompas.com/data/2016/wp/images/logokompascom.png",
+  "sameAs" : [
+    "http://www.facebook.com/kompascom",
+    "http://www.twitter.com/kompascom",
+    "http://instagram.com/kompascom",
+    "http://pinterest.com/kompascom"
+  ]
+}
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PT7PC4');</script><script type="text/javascript">
+    var base_url = 'http://www.kompas.com/';
+    var crn_url = 'aHR0cDovL3d3dy5rb21wYXMuY29tLw==';
+</script><script type="text/javascript">
+var crtg_nid = '4168';
+var crtg_cookiename = 'crtg_rta';
+var crtg_varname = 'crtg_content';
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+var crtg_content = crtg_getCookie(crtg_cookiename);
+var crtg_rnd=Math.floor(Math.random()*99999999999);
+(function(){
+var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+crtg_url +='&cookieName='+escape(crtg_cookiename);
+crtg_url +='&rnd='+crtg_rnd;
+crtg_url +='&varName=' + escape(crtg_varname);
+var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+})();
+</script><script type="text/javascript">
+	var gptadslots=[];
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function(){ var gads = document.createElement('script');
+		gads.async = true; gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+</script><script type="text/javascript">
+googletag.cmd.push(function() {
+			
+
+		//Adslot 2 declaration
+		gptadslots[2]= googletag.defineSlot('/31800665/KOMPAS.COM/home', [[300,600]],'div-gpt-ad-712092287234656005-2').setTargeting('Pos',['Giant']).addService(googletag.pubads());
+
+		//Adslot 3 declaration
+		//gptadslots[3]= googletag.defineSlot('/31800665/KOMPAS.COM/home', [[300,250]],'div-gpt-ad-712092287234656005-3').setTargeting('Pos',['Right_2']).addService(googletag.pubads());
+
+		//Adslot 4 declaration
+		gptadslots[4]= googletag.defineSlot('/31800665/KOMPAS.COM/home', [[300,250]],'div-gpt-ad-712092287234656005-4').setTargeting('Pos',['Right_3']).addService(googletag.pubads());
+
+		//Adslot 5 declaration
+		gptadslots[5]= googletag.defineSlot('/31800665/KOMPAS.COM/home', [[300,250]],'div-gpt-ad-712092287234656005-5').setTargeting('Pos',['Right_4']).addService(googletag.pubads());
+		
+			
+		
+		//Adslot oop declaration
+		gptadslots[0] = googletag.defineOutOfPageSlot('/31800665/KOMPAS.COM/home', 'div-gpt-ad-712092287234656005-oop').setTargeting('Pos',['Overlay']).addService(googletag.pubads());
+		
+		var crtg_split= (crtg_content|| '').split(';');
+		var pubads= googletag.pubads();
+		var cto_values= [];
+		for (var i=1;i<crtg_split.length;i++){
+		cto_values.push( "" + crtg_split[i-1].split('=')[1] + "");
+		}
+		if (cto_values.length> 0) {
+		pubads.setTargeting('kompas',cto_values);
+		}	
+
+		googletag.pubads().enableSingleRequest();
+		googletag.pubads().enableAsyncRendering();
+		googletag.enableServices();
+	
+});
+
+</script><script type="text/javascript">
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-712092287234656005-oop');});
+    </script><script type="text/javascript">
+$('#video-hl').mouseover(function(){
+    $('.hl__big').flexslider("pause");
+});
+</script><script type="text/javascript">
+                googletag.cmd.push(function() { googletag.display('div-gpt-ad-712092287234656005-2');});
+            </script><script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-712092287234656005-4');});
+        </script><script type="text/javascript">
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-712092287234656005-5');});
+        </script><script type="text/javascript">
+   var m3_u = (location.protocol=='https:'?'https://ads4.kompasads.com/new/www/delivery/ajs.php':'http://ads4.kompasads.com/new/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2971");
+   document.write ('&cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&exclude=" + document.MAX_used);
+   document.write (document.charset ? '&charset='+document.charset : (document.characterSet ? '&charset='+document.characterSet : ''));
+   document.write ("&loc=" + escape(window.location));
+   if (document.referrer) document.write ("&referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+</script><script>(function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0];
+						if (d.getElementById(id)) return;
+						js = d.createElement(s); js.id = id;
+						js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+						fjs.parentNode.insertBefore(js, fjs);
+						}(document, 'script', 'facebook-jssdk'));</script><script>window.twttr = (function(d, s, id) {
+						var js, fjs = d.getElementsByTagName(s)[0],
+						t = window.twttr || {};
+						if (d.getElementById(id)) return t;
+						js = d.createElement(s);
+						js.id = id;
+						js.src = "https://platform.twitter.com/widgets.js";
+						fjs.parentNode.insertBefore(js, fjs);
+
+						t._e = [];
+						t.ready = function(f) {
+						t._e.push(f);
+						};
+
+						return t;
+						}(document, "script", "twitter-wjs"));</script><script async="" defer="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript"><!--//<![CDATA[
+  (function(){
+   var ox_u = 'http://ads4.kompasads.com/new/www/delivery/al.php?zoneid=14&layerstyle=simple&align=center&valign=top&padding=0&closetime=15&padding=0&shifth=-8&shiftv=100&closebutton=t&nobg=t&noborder=t';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+  })();
+//]]>--></script><script type="text/javascript"><!--//<![CDATA[
+  (function(){
+   var ox_u = 'http://ads4.kompasads.com/new/www/delivery/al.php?zoneid=517&layerstyle=simple&align=center&valign=top&padding=0&closetime=20&padding=0&shifth=-8&shiftv=50&closebutton=t&nobg=t&noborder=t';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+  })();
+//]]>--></script><script type="text/javascript"><!--//<![CDATA[
+  (function(){
+   var ox_u = 'http://ads4.kompasads.com/new/www/delivery/al.php?zoneid=3623&layerstyle=simple&align=center&valign=top&padding=0&closetime=21&padding=0&shifth=-8&shiftv=180&closebutton=t&nobg=t&noborder=t';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+  })();
+//]]>--></script><script type="text/javascript"><!--//<![CDATA[
+  (function(){
+   var ox_u = 'http://ads4.kompasads.com/new/www/delivery/al.php?zoneid=3617&layerstyle=simple&align=center&valign=top&padding=0&closetime=21&padding=0&shifth=-8&shiftv=0&closebutton=f&nobg=t&noborder=t';
+   if (document.context) ox_u += '&context=' + escape(document.context);
+   document.write("<scr"+"ipt type='text/javascript' src='" + ox_u + "'></scr"+"ipt>");
+  })();
+//]]>--></script><script type="text/javascript"><!--//<![CDATA[
+  (function(){
+   var m3_u = (location.protocol=='https:'?'https://ads4.kompasads.com/new/www/delivery/ajs.php':'http://ads4.kompasads.com/new/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=949");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+  })();
+//]]>--></script><script src="http://assets.kompas.com/data/2016/wp/js/jquery.lazyload.mini.js"></script><script src="http://assets.kompas.com/data/2016/wp/js/main.js?v=8"></script><script src="http://assets.kompas.com/data/2015/kompascom/v2/js/sso_personalisasi_.min.js?v=6"></script><script src="http://assets.kompas.com/data/2016/wp/js/plugins/fancybox/jquery.fancybox.pack.js"></script><script src="http://assets.kompas.com/data/2015/kompascom/v2/js/jquery.flexslider-min.js"></script><script>
+	//data latest
+	var inclatest 	= 0;
+	var more_latest = ["\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.juara.net\/assets\/new_uploaded\/images\/small_debe6386a6e904ab38ababc20f2cb203.jpg\" border=\"0\" alt=\"FC Bayern Hanya Petik Satu Poin di Allianz Arena\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/www.juara.net\/read\/sepak.bola\/dunia\/157936-fc.bayern.hanya.petik.satu.poin.di.allianz.arena\">FC Bayern Hanya Petik Satu Poin di Allianz Arena<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/www.juara.net\">Juara.net<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t50 menit lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.juara.net\/assets\/new_uploaded\/images\/small_36748a9fff25b3f13364660265528780.jpg\" border=\"0\" alt=\"Ini Alasan Anindya Bakrie Mau Jadi Ketua Umum PB PRSI\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/www.juara.net\/read\/sport\/lainnya\/157934-ini.alasan.anindya.bakrie.mau.jadi.ketua.umum.pb.prsi\">Ini Alasan Anindya Bakrie Mau Jadi Ketua Umum PB PRSI<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/www.juara.net\">Juara.net<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t53 menit lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/10\/01\/2154231IMG-20161001-082655t.jpg?x=150&v=150\" border=\"0\" alt=\"DPP PAN Kedepankan Pendekatan Persuasif Terkait Beda Dukungan dengan DPW Aceh\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/nasional.kompas.com\/read\/2016\/10\/01\/22301631\/dpp.pan.kedepankan.pendekatan.persuasif.terkait.beda.dukungan.dengan.dpw.aceh\">DPP PAN Kedepankan Pendekatan Persuasif Terkait Beda Dukungan dengan DPW Aceh<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/nasional.kompas.com\">News<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t54 menit lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/10\/01\/2108408bayern-koeln1t.jpg?x=150&v=150\" border=\"0\" alt=\"Koeln Paksa Bayern Raih Satu Poin di Kandangnya\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/bola.kompas.com\/read\/2016\/10\/01\/22291588\/koeln.paksa.bayern.raih.satu.poin.di.kandangnya\">Koeln Paksa Bayern Raih Satu Poin di Kandangnya<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/bola.kompas.com\">Bola<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t55 menit lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/brightcove.vo.llnwd.net\/v1\/unsecured\/media\/4386485688001\/201610\/18\/4386485688001_5150952095001_5150936652001-th.jpg?pubId=4386485688001\" border=\"0\" alt=\"Inilah Sumber Air Mississippi yang Lintasi 10 Negara\" \/>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video__time\"><span class=\"video__icon icon-play\"><\/span>\n\t\t\t\t\t\t05:21\t\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150936652001\/inilah.sumber.air.mississippi.yang.lintasi.10.negara\">Inilah Sumber Air Mississippi yang Lintasi 10 Negara<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/tv.kompas.com\">Video<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t59 menit lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/04\/25\/2350402ilustrasi-kecelakaan1t.jpg?x=150&v=150\" border=\"0\" alt=\"Kecelakaan di Tebet, Perempuan Penumpang Ojek &quot;Online&quot; Meninggal Dunia \" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/megapolitan.kompas.com\/read\/2016\/10\/01\/22210761\/kecelakaan.di.tebet.perempuan.penumpang.ojek.online.meninggal.dunia.\">Kecelakaan di Tebet, Perempuan Penumpang Ojek \"Online\" Meninggal Dunia <\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/megapolitan.kompas.com\">News<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t1 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2015\/06\/09\/1118458kelimtuuuut.jpg?x=150&v=150\" border=\"0\" alt=\"Carter Pesawat, 40 Turis Australia Kunjungi NTT\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/travel.kompas.com\/read\/2016\/10\/01\/222102327\/carter.pesawat.40.turis.australia.kunjungi.ntt\">Carter Pesawat, 40 Turis Australia Kunjungi NTT<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/travel.kompas.com\">Travel<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t1 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/brightcove.vo.llnwd.net\/v1\/unsecured\/media\/4386485688001\/201610\/3602\/4386485688001_5150944656001_5150940328001-th.jpg?pubId=4386485688001\" border=\"0\" alt=\"Ahok Tetap Libatkan Teman Ahok saat Kampanye\" \/>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video__time\"><span class=\"video__icon icon-play\"><\/span>\n\t\t\t\t\t\t00:48\t\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150940328001\/ahok.tetap.libatkan.teman.ahok.saat.kampanye\">Ahok Tetap Libatkan Teman Ahok saat Kampanye<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/tv.kompas.com\">Video<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t1 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/09\/30\/1802557PhotoGrid-1475233269912t.jpg?x=150&v=150\" border=\"0\" alt=\"Anies Ingin Tonjolkan Sejarah Cilitan-Senen sebagai Poros Ekonomi Tertua\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/megapolitan.kompas.com\/read\/2016\/10\/01\/22142791\/anies.ingin.tonjolkan.sejarah.cilitan-senen.sebagai.poros.ekonomi.tertua\">Anies Ingin Tonjolkan Sejarah Cilitan-Senen sebagai Poros Ekonomi Tertua<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/megapolitan.kompas.com\">News<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t1 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.juara.net\/assets\/new_uploaded\/images\/small_40e295935570a4bc3595e59e3a979d85.jpg\" border=\"0\" alt=\"Sriwijaya FC Krisis Lini Tengah\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/www.juara.net\/read\/sepak.bola\/indonesia\/157927-sriwijaya.fc.krisis.lini.tengah\">Sriwijaya FC Krisis Lini Tengah<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/www.juara.net\">Juara.net<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t1 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n<li class=\"latest__item latest__item--video\">\n    <a href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150786133001\/benarkah.jessica.tertekan.saat.penyidikan.\">\n    \t\t\t        <div class=\"latest__img\">\n\t\t        \t<div class=\"latest__info\">\n\t\t\t\t\t\t03:55\t\t        \t\t<\/div>\n\t\t            <img src=\"http:\/\/assets.kompas.com\/data\/video\/images\/p_5150786133001.jpg\" border=\"0\" alt=\"Benarkah Jessica Tertekan saat Penyidikan? \" \/>\n\t\t        <\/div>\n\t\t    <\/a>\n    <div class=\"latest__title\"><a href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150786133001\/benarkah.jessica.tertekan.saat.penyidikan.?utm_source=WP&utm_medium=box&utm_campaign=Kvowp\">Benarkah Jessica Tertekan saat Penyidikan? <\/a>\n    <\/div>\n<\/li>","\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/10\/01\/2201384CIMB-Niaga-XTRA-XPO-716975-t.jpg?x=150&v=150\" border=\"0\" alt=\"CIMB Niaga Tawarkan KPR Bunga Rendah\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/bisniskeuangan.kompas.com\/read\/2016\/10\/01\/220434226\/cimb.niaga.tawarkan.kpr.bunga.rendah\">CIMB Niaga Tawarkan KPR Bunga Rendah<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/bisniskeuangan.kompas.com\">Ekonomi<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t1 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2015\/07\/12\/0845505Gunung-Colimat.jpg?x=150&v=150\" border=\"0\" alt=\"Gunung Colima di Meksiko Meletus, 350 Warga Dievakuasi \" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/internasional.kompas.com\/read\/2016\/10\/01\/21564091\/gunung.colima.di.meksiko.meletus.350.warga.dievakuasi.\">Gunung Colima di Meksiko Meletus, 350 Warga Dievakuasi <\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/internasional.kompas.com\">News<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t1 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/10\/01\/1258412PG-Puskopadt.jpg?x=150&v=150\" border=\"0\" alt=\"PG Jalin Kerja Sama dengan Puskopad Kodam XII\/Tanjungpura\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/bisniskeuangan.kompas.com\/read\/2016\/10\/01\/215619326\/pg.jalin.kerja.sama.dengan.puskopad.kodam.xii.tanjungpura\">PG Jalin Kerja Sama dengan Puskopad Kodam XII\/Tanjungpura<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/bisniskeuangan.kompas.com\">Ekonomi<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t1 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.juara.net\/assets\/new_uploaded\/images\/small_c336ef7ffcf5fa9ac73f992e6e295297.jpg\" border=\"0\" alt=\"Persiapan Peserta GFNY Indonesia 2016\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/www.juara.net\/read\/sport\/lainnya\/157932-persiapan.peserta.gfny.indonesia.2016\">Persiapan Peserta GFNY Indonesia 2016<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/www.juara.net\">Juara.net<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t1 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.juara.net\/assets\/new_uploaded\/images\/small_e1bd5aabf538104a420ab7f391d568e3.jpg\" border=\"0\" alt=\"Anindya Bakrie Resmi Pimpin PB PRSI Periode 2016-2020\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/www.juara.net\/read\/sport\/lainnya\/157930-anindya.bakrie.resmi.pimpin.pb.prsi.periode.2016-2020\">Anindya Bakrie Resmi Pimpin PB PRSI Periode 2016-2020<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/www.juara.net\">Juara.net<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/10\/01\/2016218PhotoGrid-1475327647363t.jpg?x=150&v=150\" border=\"0\" alt=\"Menurut Anies, Ketertiban Bisa Turunkan Temperamen Warga Jakarta saat Berlalu Lintas \" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/megapolitan.kompas.com\/read\/2016\/10\/01\/21533951\/menurut.anies.ketertiban.bisa.turunkan.temperamen.warga.jakarta.saat.berlalu.lintas.\">Menurut Anies, Ketertiban Bisa Turunkan Temperamen Warga Jakarta saat Berlalu Lintas <\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/megapolitan.kompas.com\">News<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/10\/01\/1710274DSC-8505-1t.JPG?x=150&v=150\" border=\"0\" alt=\"Gubernur Pastika Minta Pengelola Hotel Manfaatkan Produk Petani Bali\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/travel.kompas.com\/read\/2016\/10\/01\/214600627\/gubernur.pastika.minta.pengelola.hotel.manfaatkan.produk.petani.bali\">Gubernur Pastika Minta Pengelola Hotel Manfaatkan Produk Petani Bali<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/travel.kompas.com\">Travel<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.juara.net\/assets\/new_uploaded\/images\/small_d0536f8bbe9a041c8aca07b09a662af9.jpg\" border=\"0\" alt=\"Striker Pencetak Gol ke Gawang Indonesia Terkejut Dipanggil Timnas Malaysia\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/www.juara.net\/read\/sepak.bola\/indonesia\/157928-striker.pencetak.gol.ke.gawang.indonesia.terkejut.dipanggil.timnas.malaysia\">Striker Pencetak Gol ke Gawang Indonesia Terkejut Dipanggil Timnas Malaysia<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/www.juara.net\">Juara.net<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/brightcove.vo.llnwd.net\/v1\/unsecured\/media\/4386485688001\/201610\/94\/4386485688001_5150920147001_5150909154001-th.jpg?pubId=4386485688001\" border=\"0\" alt=\"Dimas Kanjeng: Saya Janji Akan Tanggung Jawab\" \/>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video__time\"><span class=\"video__icon icon-play\"><\/span>\n\t\t\t\t\t\t01:54\t\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150909154001\/dimas.kanjeng.saya.janji.akan.tanggung.jawab\">Dimas Kanjeng: Saya Janji Akan Tanggung Jawab<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/tv.kompas.com\">Video<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/brightcove.vo.llnwd.net\/v1\/unsecured\/media\/4386485688001\/201610\/546\/4386485688001_5150918385001_5150910550001-th.jpg?pubId=4386485688001\" border=\"0\" alt=\"Kontainer Uang Dimas Kanjeng Juga Ada di Makassar\" \/>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video__time\"><span class=\"video__icon icon-play\"><\/span>\n\t\t\t\t\t\t00:26\t\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150910550001\/kontainer.uang.dimas.kanjeng.juga.ada.di.makassar\">Kontainer Uang Dimas Kanjeng Juga Ada di Makassar<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/tv.kompas.com\">Video<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n<li class=\"latest__item latest__item--photo\">\n    <a href=\"http:\/\/foto.kompas.com\/photo\/detail\/2016\/09\/30\/1475214689-239f5698-601\/pengampunan-pajak-bagi-wajib-pajak\">\n    \t\t\t        <div class=\"latest__img\">\n\t\t            <div class=\"latest__info\">20 Foto<\/div>\n\t\t            <img src=\"http:\/\/assets.kompas.com\/data\/todaysphoto\/foto\/b_20160930-125145-3243-tax.amnesty.jpg\" border=\"0\" alt=\"Pengampunan Pajak bagi Wajib Pajak\"\/>\n\t\t        <\/div>\n\t\t    <\/a>\n    <div class=\"latest__title\">\n    \t<a href=\"http:\/\/foto.kompas.com\/photo\/detail\/2016\/09\/30\/1475214689-239f5698-601\/pengampunan-pajak-bagi-wajib-pajak\">Pengampunan Pajak bagi Wajib Pajak<\/a>\n    <\/div>\n<\/li>","\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/brightcove.vo.llnwd.net\/v1\/unsecured\/media\/4386485688001\/201610\/3094\/4386485688001_5150918508001_5150909147001-th.jpg?pubId=4386485688001\" border=\"0\" alt=\"Polisi Jaga Ketat Padepokan Dimas Kanjeng\" \/>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video__time\"><span class=\"video__icon icon-play\"><\/span>\n\t\t\t\t\t\t00:23\t\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150909147001\/polisi.jaga.ketat.padepokan.dimas.kanjeng\">Polisi Jaga Ketat Padepokan Dimas Kanjeng<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/tv.kompas.com\">Video<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/10\/01\/203959420161001kp07t.jpg?x=150&v=150\" border=\"0\" alt=\"Sampoerna Komitmen Ciptakan Wirausahawan Baru\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/bisniskeuangan.kompas.com\/read\/2016\/10\/01\/213043726\/sampoerna.komitmen.ciptakan.wirausahawan.baru\">Sampoerna Komitmen Ciptakan Wirausahawan Baru<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/bisniskeuangan.kompas.com\">Ekonomi<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2013\/06\/11\/0924368-mayat-t.jpg?x=150&v=150\" border=\"0\" alt=\"Dua Jasad Tanpa Identitas Ditemukan di Depok\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/megapolitan.kompas.com\/read\/2016\/10\/01\/21281801\/dua.jasad.tanpa.identitas.ditemukan.di.depok\">Dua Jasad Tanpa Identitas Ditemukan di Depok<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/megapolitan.kompas.com\">News<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.juara.net\/assets\/new_uploaded\/images\/small_b1dc96a4094d6009556226ab2fd064e7.jpg\" border=\"0\" alt=\"Jelang Rentetan Laga Padat, Mourinho Anggap Semua Pertandingan Sama Pentingnya\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/www.juara.net\/read\/sepak.bola\/inggris\/157919-jelang.rentetan.laga.padat.mourinho.anggap.semua.pertandingan.sama.pentingnya\">Jelang Rentetan Laga Padat, Mourinho Anggap Semua Pertandingan Sama Pentingnya<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/www.juara.net\">Juara.net<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/brightcove.vo.llnwd.net\/v1\/unsecured\/media\/4386485688001\/201610\/3750\/4386485688001_5150909277001_5150910529001-th.jpg?pubId=4386485688001\" border=\"0\" alt=\"Bayi Dilelang Masih Jalani Perawatan \" \/>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video__time\"><span class=\"video__icon icon-play\"><\/span>\n\t\t\t\t\t\t00:25\t\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150910529001\/bayi.dilelang.masih.jalani.perawatan.\">Bayi Dilelang Masih Jalani Perawatan <\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/tv.kompas.com\">Video<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/brightcove.vo.llnwd.net\/v1\/unsecured\/media\/4386485688001\/201610\/138\/4386485688001_5150910915001_5150909111001-th.jpg?pubId=4386485688001\" border=\"0\" alt=\"Giovinazzi Juara GP2, Sean Gelael Finis Ke-16  \" \/>\n\t\t\t\t\t\t\t\t\t\t\t\t<div class=\"video__time\"><span class=\"video__icon icon-play\"><\/span>\n\t\t\t\t\t\t01:21\t\n\t\t\t\t\t\t<\/div>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150909111001\/giovinazzi.juara.gp2.sean.gelael.finis.ke-16.\">Giovinazzi Juara GP2, Sean Gelael Finis Ke-16  <\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group adv-small\">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/tv.kompas.com\">Video<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/06\/22\/1154115Anoat.jpg?x=150&v=150\" border=\"0\" alt=\"Perburuan Satwa Dilindungi Marak, Daging Anoa Dihargai Rp 30 Ribu per Kilogram\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/regional.kompas.com\/read\/2016\/10\/01\/21204731\/perburuan.satwa.dilindungi.marak.daging.anoa.dihargai.rp.30.ribu.per.kilogram\">Perburuan Satwa Dilindungi Marak, Daging Anoa Dihargai Rp 30 Ribu per Kilogram<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/regional.kompas.com\">News<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/08\/29\/1552337Dimas-Ekkyt.jpg?x=150&v=150\" border=\"0\" alt=\"Dimas Targetkan Podium di Moto2 Eropa\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/otomotif.kompas.com\/read\/2016\/10\/01\/211633615\/dimas.targetkan.podium.di.moto2.eropa\">Dimas Targetkan Podium di Moto2 Eropa<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/otomotif.kompas.com\">Otomotif<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/03\/04\/1906356IMG-20160304-WA00051t.jpg?x=150&v=150\" border=\"0\" alt=\"Koordinasi dengan BI, Langkah Pemerintah Tekan Inflasi Dinilai Lebih Solid\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/bisniskeuangan.kompas.com\/read\/2016\/10\/01\/211507526\/koordinasi.dengan.bi.langkah.pemerintah.tekan.inflasi.dinilai.lebih.solid\">Koordinasi dengan BI, Langkah Pemerintah Tekan Inflasi Dinilai Lebih Solid<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/bisniskeuangan.kompas.com\">Ekonomi<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n\n\t\t<li class=\"latest__item\">\n\t\t\t\t\t\t\t\t<div class=\"latest__img\">\n\t\t\t\t\t\t<img src=\"http:\/\/assets.kompas.com\/thumb\/data\/photo\/2016\/10\/01\/190704020161001-1658211t.JPG?x=150&v=150\" border=\"0\" alt=\"Ahok: Semua Jualan Kecap Nomor Satu, tetapi Pernah Kerja Enggak?\" \/>\n\t\t\t\t\t\t\t\t\t\t\t<\/div>\t\t\n\t\t\t\n\t\t\t\t\t    <div class=\"latest__title\">\n\t\t    \t<a target=\"_parent\" href=\"http:\/\/megapolitan.kompas.com\/read\/2016\/10\/01\/21125491\/ahok.semua.jualan.kecap.nomor.satu.tetapi.pernah.kerja.enggak.\">Ahok: Semua Jualan Kecap Nomor Satu, tetapi Pernah Kerja Enggak?<\/a>\n\t\t    <\/div>\n\t\t    <span class=\"latest__group \">\n\t\t\t\t\n\t\t\t\t<a href=\"http:\/\/megapolitan.kompas.com\">News<\/a> - \t\t \t<\/span>\n\t\t \t<span class=\"latest__group\">\n\t\t \t\t2 jam lalu\t\t \t<\/span>\n\t\t<\/li>\n\n<li class=\"latest__item latest__item--video\">\n    <a href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150795212001\/ini.pengakuan.orangtua.yang.lelang.bayinya.\">\n    \t\t\t        <div class=\"latest__img\">\n\t\t        \t<div class=\"latest__info\">\n\t\t\t\t\t\t09:17\t\t        \t\t<\/div>\n\t\t            <img src=\"http:\/\/assets.kompas.com\/data\/video\/images\/p_5150795212001.jpg\" border=\"0\" alt=\"Ini Pengakuan Orangtua yang Lelang Bayinya \" \/>\n\t\t        <\/div>\n\t\t    <\/a>\n    <div class=\"latest__title\"><a href=\"http:\/\/tv.kompas.com\/read\/2016\/10\/01\/5150795212001\/ini.pengakuan.orangtua.yang.lelang.bayinya.?utm_source=WP&utm_medium=box&utm_campaign=Kvowp\">Ini Pengakuan Orangtua yang Lelang Bayinya <\/a>\n    <\/div>\n<\/li>"]
+	$(document).ready(function() {
+	    $(window).scroll(function() {
+	        if ($("#more").length > 0 && ($('#more').is(':visible') )) {
+	            var offset = $("#more").offset();
+	            var minPosition = 1463;
+	            //console.log("stopheight:"+$(window).scrollTop() + $(window).height());
+	            //console.log("offset:"+offset.top);
+	            if ($(window).scrollTop() + $(window).height() >= offset.top - minPosition) {
+
+	            	//console.log("yes");
+	                load_more_data($("#more"));
+	                return false;
+	            }else{
+	            	//console.log("no");
+	            }
+	        }
+	    });
+	});
+
+	function load_more_data(object){
+    	$(object).hide();
+    	if(more_latest[inclatest]){
+    		console.log("data more:"+inclatest);
+			$('#container').append(more_latest[inclatest]);
+			$(object).show();
+		}else{	
+			$('#indeks').show();
+			$(object).remove();
+		}
+		
+		inclatest=inclatest+1;
+	}
+</script><script>
+        remove_below(1300);
+    </script><script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads4.kompasads.com/new/www/delivery/ajs.php':'http://ads4.kompasads.com/new/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1691");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script>
